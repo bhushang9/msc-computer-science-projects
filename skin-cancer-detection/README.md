@@ -31,8 +31,8 @@ https://www.kaggle.com/datasets/bhaveshmittal/melanoma-cancer-dataset
 
 ## 📊 Explainability with Grad-CAM
 
-**Grad-CAM (Gradient-weighted Class Activation Mapping) is used to visualize the regions of the image that influence the model’s decision, making the predictions more interpretable and trustworthy.
-Grad-CAM is also used with MobileNetV2 and not the CNN.**
+Grad-CAM (Gradient-weighted Class Activation Mapping) is used to visualize the regions of the image that influence the model’s decision, making the predictions more interpretable and trustworthy. Grad-CAM is also used with MobileNetV2 and not the CNN.
+
 ---
 
 ## ▶️ Pre-trained Models
