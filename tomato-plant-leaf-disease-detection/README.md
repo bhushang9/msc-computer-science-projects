@@ -129,13 +129,3 @@ Tomato crops are highly susceptible to various leaf diseases that significantly 
 * **Use Case:** Smart Agriculture / Plant Disease Detection
 
 ---
-
-
-## 👤 Author
-
-**Bhushan Gholekar**
-Computer Science | Machine Learning | UI/UX Enthusiast
-
----
-
-⭐ If you find this project useful, feel free to star the repository.
