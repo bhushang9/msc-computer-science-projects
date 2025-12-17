@@ -11,7 +11,7 @@ This project analyzes mental health survey data to:
 - Provide confidence scores for predictions
 - Analyze emotional sentiment from optional user journal entries
   
-Version 2 is a refined and stable implementation focused on correctness, clean ML pipelines, and deployability using Streamlit.\
+Version 2 is a refined and stable implementation focused on correctness, clean ML pipelines, and deployability using Streamlit.
 
 ---
 
