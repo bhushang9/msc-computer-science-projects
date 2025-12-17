@@ -2,7 +2,7 @@
 
 A machine learning–based web application that predicts the likelihood of requiring mental health treatment based on workplace, demographic, and personal factors, enhanced with sentiment analysis of user journal entries. This Version 2 is a refined, stable, and production-ready upgrade over the initial implementation, focusing on correctness, consistency, and deployment reliability.
 
-**This project was developed as a Final Year Engineering Project (Computer Science).**
+*This project was developed as a Final Year Masters Project (Computer Science).*
 
 
 ---
