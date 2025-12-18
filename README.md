@@ -38,5 +38,6 @@ Each folder represents a **standalone, end-to-end project**, covering:
 ## 👤 Author
 
 **Bhushan Gholekar**  
-MSc Computer Science PostGraduate
-Machine Learning | Deep Learning | Computer Visionn
+MSc Computer Science  
+Machine Learning | Deep Learning | Computer Vision
+
