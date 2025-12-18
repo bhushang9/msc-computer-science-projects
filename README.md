@@ -19,7 +19,7 @@ Each folder represents a **standalone, end-to-end project**, covering:
 | Project Name | Domain | Key Technologies |
 |--------------|--------|------------------|
 | Tomato Plant Leaf Disease Detection | Computer Vision / Deep Learning | CNN, ResNet50, MobileNetV2, Flask |
-| Mental Health Analytics System | Machine Learning / NLP | Random Forest, Stacking, Sentiment Analysis, Streamlit |
+| Mental Health Analytics System | Machine Learning / NLP | ML Models, Sentiment Analysis, Streamlit, Streamlit |
 | Skin Cancer Detection | Medical Image Analysis | CNN, Transfer Learning |
 
 ---
